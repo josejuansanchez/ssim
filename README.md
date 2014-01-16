@@ -1,6 +1,5 @@
 ssim
 ====
-
 This is an implementation of the algorithm for calculating the Structural SIMilarity (SSIM) index between two images.
 
 The Structural SIMilarity (SSIM) index is a method for measuring the similarity between two images. The SSIM index can be viewed as a quality measure of one of the images being compared, provided the other image is regarded as of perfect quality. It is an improved version of the universal image quality index proposed before. Detailed description is given in the following paper:
@@ -11,6 +10,7 @@ More info can be found at the [official website](http://www.ece.uwaterloo.ca/~z7
 
 Usage
 =====
+BASH and Octave:
 
 `./compute_ssim.sh imageA.png imageB.png`
 
