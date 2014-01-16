@@ -7,7 +7,7 @@ The Structural SIMilarity (SSIM) index is a method for measuring the similarity 
 
 * [Z. Wang](http://www.ece.uwaterloo.ca/~z70wang/), [A. C. Bovik](http://live.ece.utexas.edu/people/bovik/), [H. R. Sheikh](http://live.ece.utexas.edu/People/people_detail.php?id=92) and [E. P. Simoncelli](http://www.cns.nyu.edu/~eero/), "[Image quality assessment: From error visibility to structural similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.html)," *IEEE Transactions on Image Processing*, vol. 13, no. 4, pp. 600-612, Apr. 2004.
 
-More info can be found at the official [website](http://www.ece.uwaterloo.ca/~z70wang/research/ssim/).
+More info can be found at the [official website](http://www.ece.uwaterloo.ca/~z70wang/research/ssim/).
 
 Usage
 =====
