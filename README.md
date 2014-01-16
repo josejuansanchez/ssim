@@ -12,7 +12,7 @@ Usage
 =====
 BASH and Octave:
 
-```
+``` bash
 ./compute_ssim.sh imageA.png imageB.png
 ```
 
