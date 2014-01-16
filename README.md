@@ -12,7 +12,7 @@ Usage
 =====
 BASH and Octave:
 
-`./compute_ssim.sh imageA.png imageB.png`
+```./compute_ssim.sh imageA.png imageB.png```
 
 License
 =======
