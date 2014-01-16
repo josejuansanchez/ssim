@@ -3,12 +3,9 @@ ssim
 
 This is an implementation of the algorithm for calculating the Structural SIMilarity (SSIM) index between two images.
 
-Please refer to the following paper and the website with suggested usage
+The Structural SIMilarity (SSIM) index is a method for measuring the similarity between two images. The SSIM index can be viewed as a quality measure of one of the images being compared, provided the other image is regarded as of perfect quality. It is an improved version of the universal image quality index proposed before. Detailed description is given in the following paper:
 
-Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli, "Image
-quality assessment: From error visibility to structural similarity,"
-IEEE Transactios on Image Processing, vol. 13, no. 4, pp. 600-612,
-Apr. 2004.
+* [Z. Wang](http://www.ece.uwaterloo.ca/~z70wang/), [A. C. Bovik](http://live.ece.utexas.edu/people/bovik/), [H. R. Sheikh](http://live.ece.utexas.edu/People/people_detail.php?id=92) and [E. P. Simoncelli](http://www.cns.nyu.edu/~eero/), "[Image quality assessment: From error visibility to structural similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.html)," *IEEE Transactions on Image Processing*, vol. 13, no. 4, pp. 600-612, Apr. 2004.
 
 http://www.ece.uwaterloo.ca/~z70wang/research/ssim/
 
